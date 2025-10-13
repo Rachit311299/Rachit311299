@@ -3,9 +3,9 @@
 🎓 I’m a recent **Master’s graduate in Computer Science & Engineering** from Santa Clara University.  
 📱 I build **intuitive, user-friendly mobile apps** using **Flutter, React Native, and Android**.  
 🎨 Passionate about **designing responsive and engaging front-end experiences** with React and modern UI/UX principles.  
-☁️ Skilled in **scalable cloud architectures**, leveraging **AWS (Solutions Architect Associate Certified)** to deploy robust, production-grade applications.  
+☁️ Skilled in **scalable cloud architectures**, leveraging **AWS ** to deploy robust, production-grade applications.  
 🤖 Exploring **Agentic AI automations** and intelligent workflows that blend creativity with efficiency.  
-🎧 When I’m not coding, you’ll probably find me making music.  
+🎧 When I’m not coding, you’ll probably find me making music (Instagram).  
 
 ---
 
